@@ -1,20 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🏍️ MR.BIKER GARAGE – Website
 
-# Run and deploy your AI Studio app
+A modern, responsive website built for Mr Biker Garage Dindigul.
 
-This contains everything you need to run your app locally.
+📌 About The Project
+Professional garage business website
+Designed with a premium red & black biker theme
+Fully responsive (Mobile + Tablet + Desktop)
+Modern UI with smooth animations
 
-View your app in AI Studio: https://ai.studio/apps/drive/1jWLuwwJ4pbI9KUvn3aRusYof3GDRcD3S
+🚀 Features
+Hero section with cinematic background
+Sticky responsive navbar
+Services showcase section
+Interactive gallery (tap-to-rotate effect)
+Contact section with:
+Click-to-call
+WhatsApp integration
+Google Maps location link
+Floating WhatsApp button
+Attractive enhanced footer
+Developer credit included
 
-## Run Locally
+🛠️ Built With
+HTML
+CSS
+JavaScript
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+📱 Responsive Design
+Optimized for all screen sizes
+Mobile-first adjustments
+Clean typography scaling
