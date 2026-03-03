@@ -1,32 +1,43 @@
-🏍️ MR.BIKER GARAGE – Website
+# ⚡ Sri Astalakshmi Electricals  
+### Official Business Website
 
-A modern, responsive website built for Mr Biker Garage Dindigul.
+This is the official live website of **Sri Astalakshmi Electricals**, a trusted electrical retail showroom in Dindigul with over **12 Years in Business**.
 
-📌 About The Project
-Professional garage business website
-Designed with a premium red & black biker theme
-Fully responsive (Mobile + Tablet + Desktop)
-Modern UI with smooth animations
+The website is actively used by the business to showcase products, provide contact access, and enable direct customer enquiries via WhatsApp.
 
-🚀 Features
-Hero section with cinematic background
-Sticky responsive navbar
-Services showcase section
-Interactive gallery (tap-to-rotate effect)
-Contact section with:
-Click-to-call
-WhatsApp integration
-Google Maps location link
-Floating WhatsApp button
-Attractive enhanced footer
-Developer credit included
+---
 
-🛠️ Built With
-HTML
-CSS
-JavaScript
+## 🚀 Website Features
 
-📱 Responsive Design
-Optimized for all screen sizes
-Mobile-first adjustments
-Clean typography scaling
+- Premium modern UI/UX
+- Fully responsive (mobile-first)
+- Smooth scrolling single-page experience
+- Dynamic sticky navigation
+- Product category browsing
+- Image-rich galleries
+- WhatsApp click-to-chat enquiry system
+- SEO-friendly structure
+- Clean and scalable architecture
+
+---
+
+## 🎯 Purpose of the Website
+
+This website serves as:
+
+- The official digital presence of the shop  
+- A product showcase platform  
+- A direct customer enquiry system  
+- A trust-building brand identity platform  
+
+It reflects the professionalism, reliability, and 12+ years of business credibility of Sri Astalakshmi Electricals.
+
+---
+
+## 📌 Status
+
+🟢 Live & In Use  
+🟢 Actively serving customers  
+🟢 Maintained for scalability and updates  
+
+---
