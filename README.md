@@ -1,43 +1,63 @@
-# ⚡ Sri Astalakshmi Electricals  
-### Official Business Website
+# 🏍️ MR.BIKER GARAGE – Official Website
 
-This is the official live website of **Sri Astalakshmi Electricals**, a trusted electrical retail showroom in Dindigul with over **12 Years in Business**.
+> **Performance. Precision. Passion.**
 
-The website is actively used by the business to showcase products, provide contact access, and enable direct customer enquiries via WhatsApp.
-
----
-
-## 🚀 Website Features
-
-- Premium modern UI/UX
-- Fully responsive (mobile-first)
-- Smooth scrolling single-page experience
-- Dynamic sticky navigation
-- Product category browsing
-- Image-rich galleries
-- WhatsApp click-to-chat enquiry system
-- SEO-friendly structure
-- Clean and scalable architecture
+A modern, high-performance website built for **Mr Biker Garage Dindigul**, designed with a bold red-and-black biker aesthetic and smooth interactive effects.
 
 ---
 
-## 🎯 Purpose of the Website
+## 🚀 Overview
 
-This website serves as:
+This website represents a premium motorcycle service & modification garage with a strong digital presence.
 
-- The official digital presence of the shop  
-- A product showcase platform  
-- A direct customer enquiry system  
-- A trust-building brand identity platform  
+It focuses on:
+- Aggressive visual identity  
+- Smooth animations  
+- Mobile-first responsiveness  
+- Clean, modern UI  
 
-It reflects the professionalism, reliability, and 12+ years of business credibility of Sri Astalakshmi Electricals.
+---
+
+## ✨ Features
+
+- 🔥 Cinematic Hero Section
+- 📱 Fully Responsive Design
+- 🧭 Sticky Navigation Bar
+- 🛠️ Services Showcase
+- 🖼️ Interactive Image Gallery (Tap-to-Rotate Effect)
+- 📍 Google Maps Location Integration
+- 📞 Click-to-Call Support
+- 💬 WhatsApp Integration
+- 🟢 Floating WhatsApp Button
+- 🎨 Enhanced Premium Footer
+- 👨‍💻 Developer Credit Included
+
+--- 
+
+## 📱 Responsiveness
+
+Optimized for:
+- Desktop  
+- Tablet  
+- Mobile Devices  
+
+Smooth layout scaling and adaptive typography ensure clean viewing across all screen sizes.
 
 ---
 
-## 📌 Status
+## 🎯 Design Theme
 
-🟢 Live & In Use  
-🟢 Actively serving customers  
-🟢 Maintained for scalability and updates  
+- Primary Color: Racing Red  
+- Secondary: Black / Charcoal  
+- Style: Premium Biker Aesthetic  
+- Mood: Bold • Powerful • Professional  
 
 ---
+
+## 👨‍💻 Developed By
+
+**Angel**
+
+---
+
+© 2026 MR.BIKER GARAGE DINDIGUL. All Rights Reserved.
