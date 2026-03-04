@@ -6,6 +6,12 @@ A modern, high-performance website built for **Mr Biker Garage Dindigul**, desig
 
 ---
 
+## 🎯 Project Purpose
+
+This project was created as part of a **survey-based web development initiative**, transforming local shop information into a digital platform to improve accessibility and visibility.
+
+---
+
 ## 🚀 Overview
 
 This website represents a premium motorcycle service & modification garage with a strong digital presence.
